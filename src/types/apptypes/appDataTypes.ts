@@ -1,0 +1,1 @@
+export type roleDataTypes = "CLIENT" | "EMPLOYEE" | "EMPLOYER" | "FREELANCER"
